@@ -1,0 +1,49 @@
+{
+  "title": "Azur Lane: Slow Ahead!",
+  "description": "The naval port of Azur Lane is as lively as it can get—just some of the people present include the upbeat and cheerful Javelin, the laid-back and easygoing Laffey, the quiet and calm Ayanami, and the earnest and determined Z23. Living out their lives to the fullest, these girls get into various shenanigans—slowly but surely!",
+  "artist": "Hori",
+  "author": "Hori",
+  "cover": "https://i.imgur.com/QIt8Ixm.png",
+  "chapters": {
+    "01": {
+      "title": "01",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/XsSaGiq/"
+      },
+      "last_updated": "1616368746"
+    },
+    "02": {
+      "title": "02",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/38rQI6X/"
+      },
+      "last_updated": "1616368746"
+    },
+    "03": {
+      "title": "03",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/3ywtEQw/"
+      },
+      "last_updated": "1616368746"
+    },
+    "04": {
+      "title": "04",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/THlZcjl/"
+      },
+      "last_updated": "1616368746"
+    },
+    "05": {
+      "title": "05",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/Lb1hOfo/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
