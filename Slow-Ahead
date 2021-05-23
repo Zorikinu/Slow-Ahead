@@ -85,6 +85,14 @@
       },
       "last_updated": "1616368746"
     },
+    "10.5": {
+      "title": "Chapter 10.5",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/W6eXlM7/"
+      },
+      "last_updated": "1616368746"
+    },
     "11": {
       "title": "Chapter 11",
       "volume": "01",
@@ -98,6 +106,14 @@
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/G17njIH/"
+      },
+      "last_updated": "1616368746"
+    },
+    "12.5": {
+      "title": "Chapter 12.5",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/p9fWS3k/"
       },
       "last_updated": "1616368746"
     },
@@ -165,6 +181,14 @@
       },
       "last_updated": "1616368746"
     },
+    "20.5": {
+      "title": "Chapter 20.5",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/WiqpHFn/"
+      },
+      "last_updated": "1616368746"
+    },
     "21": {
       "title": "Chapter 21",
       "volume": "01",
@@ -218,6 +242,14 @@
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/mlGCpXy/"
+      },
+      "last_updated": "1616368746"
+    },
+    "27.5": {
+      "title": "Chapter 27.5",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/PBUFS7g/"
       },
       "last_updated": "1616368746"
     },
@@ -277,6 +309,14 @@
       },
       "last_updated": "1616368746"
     },
+    "34.5": {
+      "title": "Chapter 34.5",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/05Lvmn5/"
+      },
+      "last_updated": "1616368746"
+    },
     "35": {
       "title": "Chapter 35",
       "volume": "01",
@@ -293,11 +333,27 @@
       },
       "last_updated": "1616368746"
     },
+    "36.5": {
+      "title": "Chapter 36.5",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/DnxD0ie/"
+      },
+      "last_updated": "1616368746"
+    },
     "37": {
       "title": "Chapter 37",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/5XqX8F9/"
+      },
+      "last_updated": "1616368746"
+    },
+    "37.5": {
+      "title": "Chapter 37.5",
+      "volume": "01",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/iThX9E5/"
       },
       "last_updated": "1616368746"
     },
