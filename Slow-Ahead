@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/QIt8Ixm.png",
   "chapters": {
     "01": {
-      "title": "Chapter 01",
+      "title": "Chapter 01 (Javelin, Ayanami, Laffey, Z23)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/XsSaGiq/"
@@ -14,7 +14,7 @@
       "last_updated": "1616368746"
     },
     "02": {
-      "title": "Chapter 02",
+      "title": "Chapter 02 (Javelin, Ayanami, Laffey, Z23)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/38rQI6X/"
@@ -22,7 +22,7 @@
       "last_updated": "1616368746"
     },
     "03": {
-      "title": "Chapter 03",
+      "title": "Chapter 03 (Javelin, Ayanami, Laffey, Z23)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/3ywtEQw/"
@@ -30,7 +30,7 @@
       "last_updated": "1616368746"
     },
     "04": {
-      "title": "Chapter 04",
+      "title": "Chapter 04 (Javelin, Ayanami, Laffey, Z23)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/THlZcjl/"
@@ -38,7 +38,7 @@
       "last_updated": "1616368746"
     },
     "05": {
-      "title": "Chapter 05",
+      "title": "Chapter 05 (Javelin, Takao, Kirishima)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/Lb1hOfo/"
@@ -46,7 +46,7 @@
       "last_updated": "1616368746"
     },
     "06": {
-      "title": "Chapter 06",
+      "title": "Chapter 06 (Z23, Saratoga, Lexington)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/DONSzFK/"
@@ -54,7 +54,7 @@
       "last_updated": "1616368746"
     },
     "07": {
-      "title": "Chapter 07",
+      "title": "Chapter 07 (Javelin, Gneisenau, Scharnhorst)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/UqpqI7Z/"
@@ -62,7 +62,7 @@
       "last_updated": "1616368746"
     },
     "08": {
-      "title": "Chapter 08",
+      "title": "Chapter 08 (Z23, Queen Elizabeth, Warspite)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/tqy1719/"
@@ -70,7 +70,7 @@
       "last_updated": "1616368746"
     },
     "09": {
-      "title": "Chapter 09",
+      "title": "Chapter 09 (Javelin, Ayanami, Jean Bart)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/XrOzFuS/"
@@ -78,7 +78,7 @@
       "last_updated": "1616368746"
     },
     "10": {
-      "title": "Chapter 10",
+      "title": "Chapter 10 (Z23, Laffey, Le Triomphant)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/Ev9uw0z/"
@@ -86,7 +86,7 @@
       "last_updated": "1616368746"
     },
     "10.5": {
-      "title": "Chapter 10.5",
+      "title": "Chapter 10.5 (Javelin, Unicorn, St. Louis)",
       "volume": "01",
       "groups": {
         "Skeleton Warriors": "/proxy/api/imgur/chapter/W6eXlM7/"
