@@ -740,6 +740,22 @@
         "Skeleton Warriors": "/proxy/api/imgur/chapter/YFaYNX8/"
       },
       "last_updated": "1616368746"
+    },
+    "76.1": {
+      "title": "Bonus Chapter 5 (Z23, St. Louis, Helena)",
+      "volume": "03",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/rlGNNjz/"
+      },
+      "last_updated": "1616368746"
+    },
+    "76.2": {
+      "title": "Bonus Chapter 6 (Ayanami, Graf Zeppelin, Zeppy)",
+      "volume": "03",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/6CLbth1/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
