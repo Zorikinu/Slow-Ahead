@@ -852,6 +852,22 @@
         "Skeleton Warriors": "/proxy/api/imgur/chapter/2KRu2Xa/"
       },
       "last_updated": "1654858940"
+    },
+    "88": {
+      "title": "Chapter 88 (Ayanami, Shimakaze, Suruga)",
+      "volume": "04",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/0Q73603/"
+      },
+      "last_updated": "1654858940"
+    },
+    "89": {
+      "title": "Chapter 89 (Javelin, Ayanami, Chkalov)",
+      "volume": "04",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/3z72SMe/"
+      },
+      "last_updated": "1658475070"
     }
   }
 }
